@@ -8,7 +8,9 @@ Exploring possible methods to decipher the 3301 - Liber Primus. I found that wor
 
 For us to be able to perform this method we will have to use https://github.com/Taiiwo/cicada Lib with some of our own code.
 
-``` from cicada.gematria import Latin, Runes```
+```python
+from cicada.gematria import Latin, Runes
+```
 
 GemKey Keyword:
 
