@@ -21,6 +21,14 @@ GemKey Keyword:
     # DIVINITYTINIVID
 ```
 
+GemKey Decipher:
+
+```python
+def GemKeyDecipher(keyword, page):
+    return Runes(page).running_shift(GetGemKeyStream(keyword)).to_latin()
+```
+
+
  GemKey Sequence:
  ```python
  def GetGemKeySeq(keyword):
