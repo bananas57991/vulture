@@ -2,7 +2,7 @@
 
 A short summary:
 
-Exploring possible methods to decipher the 3301 - Liber Primus. I found that words can be transformed into sequences of shifts using the Gematria Primus provided by (Cicada) 3301.  It was noticed that within the LP  is a (Mobius Strip) (unsolved pages of the LP).  I decided to create a function which alllows us to convert words into shift sequences in the same style as the twitter username which might then be used to decipher some of the unsolved pages if to be explored further.
+> Exploring possible methods to decipher the 3301 - Liber Primus. I found that words can be transformed into sequences of shifts using the Gematria Primus provided by (Cicada) 3301.  It was noticed that within the LP  is a (Mobius Strip) (unsolved pages of the LP).  I decided to create a function which alllows us to convert words into shift sequences in the same style as the twitter username which might then be used to decipher some of the unsolved pages if to be explored further.
 
 -I have not tried this method against any other pages only the runes included in this document.
 
