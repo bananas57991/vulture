@@ -16,13 +16,14 @@ GemKey Keyword:
 
 ```python
  def CreateGemKeyword(keyword):
-        backwards = keyword[:-1]
-        return keyword + backwards[::-1]
+     backwards = keyword[:-1]
+     return keyword + backwards[::-1]
+    # DIVINITYTINIVID
 ```
 
  GemKey Sequence:
  ```python
  def GetGemKeySeq(keyword):
      return Latin(CreateGemKey(keyword)).to_numbers()
-     ###### # [89, 31, 3, 31, 29, 31, 59, 103, 59, 31, 29, 31, 3, 31, 89]
+  # [89, 31, 3, 31, 29, 31, 59, 103, 59, 31, 29, 31, 3, 31, 89]
 ```
