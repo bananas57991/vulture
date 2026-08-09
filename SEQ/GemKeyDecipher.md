@@ -29,12 +29,7 @@ def GemKeyDecipher(keyword, page):
 ```
 
 
- GemKey Sequence:
- ```python
- def GetGemKeySeq(keyword):
-     return Latin(CreateGemKey(keyword)).to_numbers()
-  # [89, 31, 3, 31, 29, 31, 59, 103, 59, 31, 29, 31, 3, 31, 89]
-```
+
 Usage :
  ```python
 print(GemKeyDecipher('DIVINITY', 'A MING RUNE STRING')) # Start of page 54 (FIRST 4 WORDS)
