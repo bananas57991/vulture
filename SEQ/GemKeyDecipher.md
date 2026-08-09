@@ -12,8 +12,10 @@ For us to be able to perform this method we will have to use https://github.com/
 
 GemKey Keyword:
 
-``` def CreateGemKeyword(keyword):
+```python
+ def CreateGemKeyword(keyword):
         backwards = keyword[:-1]
-        return keyword + backwards[::-1] ```
+        return keyword + backwards[::-1]
+```
 
         
